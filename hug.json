@@ -1,10 +1,10 @@
 {
-"image": [
-  "https://rra.ram.moe/i/HkgVHhmgx.gif",
-  "https://rra.ram.moe/i/BJEJI2Qgl.gif",
-  "https://rra.ram.moe/i/ByPsrhQlx.gif",
-  "https://media.giphy.com/media/l0ExtsbTirmPW3bQk/giphy.gif",
-  "https://media.tenor.co/images/5c35f9a6052b30442d05a855fc76b5de/tenor.gif",
-  "https://myanimelist.cdn-dena.com/s/common/uploaded_files/1460988091-6e86cd666a30fcc1128c585c82a20cdd.gif"
-]
+"image": {
+  "0":"https://rra.ram.moe/i/HkgVHhmgx.gif",
+  "1":"https://rra.ram.moe/i/BJEJI2Qgl.gif",
+  "2":"https://rra.ram.moe/i/ByPsrhQlx.gif",
+  "3":"https://media.giphy.com/media/l0ExtsbTirmPW3bQk/giphy.gif",
+  "4":"https://media.tenor.co/images/5c35f9a6052b30442d05a855fc76b5de/tenor.gif",
+  "5":"https://myanimelist.cdn-dena.com/s/common/uploaded_files/1460988091-6e86cd666a30fcc1128c585c82a20cdd.gif"
+}
 }
